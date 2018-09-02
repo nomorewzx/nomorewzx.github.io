@@ -1,7 +1,0 @@
-Title: Returning view V.S. copy
-Slug: returning-view-vs-copy
-Date: 2018-08-28 20:00
-Category: posts
-Tags: python pandas SettingWithCopyWarning
-author: Zhenxuan
-Summary: What is SettingWithCopyWarning and why it matters
